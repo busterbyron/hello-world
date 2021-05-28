@@ -1,3 +1,3 @@
 # hello-world
 
-I write Python (machine learning/Pytorch emphasis) and server-side Javascript/Typescript with Deno, Oak, and Postgres.
+I know some python (machine learning/Pytorch), server-side Javascript/Typescript with Deno, Oak, and Mongo, and React.
